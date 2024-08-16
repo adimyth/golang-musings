@@ -18,7 +18,7 @@ Time Complexity:
 Space Complexity: O(1)
 
 Example:
-In this example, we will create two tables, `employees` and `departments`, and join them on the `department_id` column using the Merge Join algorithm.
+In this example, we will create two tables, `employees` and `departments`, and join them on the `department_id` column using the Nested Loop Join algorithm.
 
 Here, I will be using strucuts to represent the employees and departments tables.
 
